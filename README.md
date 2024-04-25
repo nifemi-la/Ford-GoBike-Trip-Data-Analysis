@@ -10,9 +10,9 @@ The dataset used for this analysis contains information about bike trips, includ
 ## Analysis
 The analysis includes the following key insights:
 
-Trip Duration Trends: Investigation into the duration of bike trips and their variation based on different factors such as day of the week, user type, and gender.
-User Demographics: Exploration of the demographic characteristics of bike service users, including gender distribution and user type breakdown.
-Usage Patterns: Examination of the frequency of bike service usage across different hours of the day and days of the week.
+- Trip Duration Trends: Investigation into the duration of bike trips and their variation based on different factors such as day of the week, user type, and gender.
+- User Demographics: Exploration of the demographic characteristics of bike service users, including gender distribution and user type breakdown.
+- Usage Patterns: Examination of the frequency of bike service usage across different hours of the day and days of the week.
 
 ## Libraries Used
 *pandas*: Data manipulation and analysis
